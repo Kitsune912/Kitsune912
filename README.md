@@ -1,16 +1,18 @@
-### Hi there 👋
+### Oi! 🦊
 
-<!--
-**Kitsune912/Kitsune912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👁️‍🗨 Sobre Mim
+🎓 Eu sou o Kitsune, um **Estudante** paulistano normal de ensino médio...
 
-Here are some ideas to get you started:
+🔡 Aqui no GitHub, faço principalmente traduções de projetos que gosto, como [**RimWorld**](https://store.steampowered.com/app/294100/RimWorld/) e [Anki Ultimate Geograpghy Deck](https://ankiweb.net/shared/info/2109889812). Além disso, faço algumas menores coisinhas em **XML** e **HTML** e no campo do **Design**, mas, como o uso do diminutivo implica, não são tão grandes... :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✉️ Eu gosto bastante de **Linguística** e sempre busco aprender mais sobre. Atualmente, sou fluente em **Português** e **Inglês**, e tenho **Espanhol**, **Japonês** e [**Toki Pona**](https://en.wikipedia.org/wiki/Toki_Pona) em um nível médio. :)
+
+🌎 Como talvez tenha deduzido do Baralho do Anki, também me interesso por **Geografia**! Conheço (de nome) todos os países (e quase países), além de ter na ponta da língua o nome de sua(s) capital(is) >:D
+
+🕹️ Gosto também de **Videogame**, sendo meus jogos favoritos RimWorld, [BTD6](https://store.steampowered.com/app/960090/Bloons_TD_6/) e [DBD](https://store.steampowered.com/app/381210/Dead_by_Daylight/). Não me questione a relação entre eles (porque eu também não sei D:).
+
+🗾 Obviamente, para querer aprender japonês, você precisa gostar de **Anime**... infelizmente, eu gosto. Prefiro não revelar meus favoritos porque podem gerar alguma tanta controvérsia! ><
+
+## 🔗 Links
+
+![Discord](https://img.shields.io/badge/Discord-2c2f44?style=for-the-badge&logo=Discord&logoColor=#5865F2)
