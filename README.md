@@ -12,9 +12,3 @@
 🕹️ Gosto também de **Videogame**, sendo meus jogos favoritos RimWorld, [BTD6](https://store.steampowered.com/app/960090/Bloons_TD_6/) e [DBD](https://store.steampowered.com/app/381210/Dead_by_Daylight/). Não me questione a relação entre eles (porque eu também não sei D:).
 
 🗾 Obviamente, para querer aprender japonês, você precisa gostar de **Anime**... infelizmente, eu gosto. Prefiro não revelar meus favoritos porque podem gerar alguma tanta controvérsia! ><
-
-## 🔗 Links
-
-[![Discord](https://img.shields.io/badge/Discord-5662f6?style=for-the-badge&logo=Discord&logoColor=ffffff)](https://steamcommunity.com/id/aquelekitsune/)
-
-
