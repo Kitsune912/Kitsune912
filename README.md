@@ -15,4 +15,4 @@
 
 ## 🔗 Links
 
-![Discord](https://img.shields.io/badge/Discord-2c2f44?style=for-the-badge&logo=Discord&logoColor=#5865F2)
+![Discord](https://img.shields.io/badge/Discord-5662f6?style=for-the-badge&logo=Discord&logoColor=ffffff)
