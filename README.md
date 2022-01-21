@@ -5,7 +5,7 @@
 
 🔡 Aqui no GitHub, faço principalmente traduções de projetos que gosto, como [**RimWorld**](https://store.steampowered.com/app/294100/RimWorld/) e [Anki Ultimate Geograpghy Deck](https://ankiweb.net/shared/info/2109889812). Além disso, faço algumas menores coisinhas em **XML** e **HTML** e no campo do **Design**, mas, como o uso do diminutivo implica, não são tão grandes... :)
 
-✉️ Eu gosto bastante de **Linguística** e sempre busco aprender mais sobre. Atualmente, sou fluente em **Português** e **Inglês**, e tenho **Espanhol**, **Japonês** e [**Toki Pona**](https://en.wikipedia.org/wiki/Toki_Pona) em um nível médio. :)
+✉️ Eu gosto bastante de **Linguística** (principalmente **Fonética**) e sempre busco aprender mais sobre. Atualmente, sou fluente em **Português** e **Inglês**, e tenho **Espanhol**, **Japonês** e [**Toki Pona**](https://en.wikipedia.org/wiki/Toki_Pona) em um nível médio. :)
 
 🌎 Como talvez tenha deduzido do Baralho do Anki, também me interesso por **Geografia**! Conheço (de nome) todos os países (e quase países), além de ter na ponta da língua o nome de sua(s) capital(is) >:D
 
