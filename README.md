@@ -15,4 +15,6 @@
 
 ## 🔗 Links
 
-![Discord](https://img.shields.io/badge/Discord-5662f6?style=for-the-badge&logo=Discord&logoColor=ffffff)
+[![Discord](https://img.shields.io/badge/Discord-5662f6?style=for-the-badge&logo=Discord&logoColor=ffffff)](https://steamcommunity.com/id/aquelekitsune/)
+
+
